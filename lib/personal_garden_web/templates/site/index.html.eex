@@ -1,0 +1,3 @@
+<section class="phx-hero">
+  <h1><%= gettext "Welcome to %{project}!", project: "My zen garden" %></h1>
+</section>

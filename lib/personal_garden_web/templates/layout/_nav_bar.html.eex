@@ -1,0 +1,8 @@
+<header>
+  <section class="container">
+    <nav role="navigation">
+      <a href="">Home</a>
+      <a href="">Contact</a>
+    </nav>
+  </section>
+</header>
